@@ -6,4 +6,4 @@ To run the project, just do `mvn spring-boot:run`
 
 **Enjoy**
 
-*Special thanks to Andy from MVP JAVA [ from MVP JAVA ](http://mvpjava.com/)* 
+*Special thanks to  [ Andy from MVP JAVA ](http://mvpjava.com/)* 
